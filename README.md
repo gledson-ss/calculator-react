@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GledsonS831/Calculadora/master/assets-README/Calc.png?token=AKLJ3K4BHQ5KEMK7IATOY5C6SWQQQ" ></img>
+  <img src="https://github.com/GledsonS831/Calculator/blob/master/assets-README/Calc.png?raw=true" ></img>
  </p>
 
 *A simple calculator made with the goal of learning good practices with react.*
